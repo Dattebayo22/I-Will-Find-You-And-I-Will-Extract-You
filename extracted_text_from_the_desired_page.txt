@@ -1,0 +1,29 @@
+File: 9781133187813.pdf
+CONTENTS ix
+10.2 Probabilistic Algorithms . . . . . . . . . . . . . . . . . . . . . . . 396
+The class BPP . . . . . . . . . . . . . . . . . . . . . . . . . . . 396
+Primality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 399
+Read-once branching programs . . . . . . . . . . . . . . . . . . 404
+10.3 Alternation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 408
+Alternating time and space . . . . . . . . . . . . . . . . . . . . 410
+The Polynomial time hierarchy . . . . . . . . . . . . . . . . . . 414
+10.4 Interactive Proof Systems . . . . . . . . . . . . . . . . . . . . . . 415
+Graph nonisomorphism . . . . . . . . . . . . . . . . . . . . . . 415
+Deﬁnition of the model . . . . . . . . . . . . . . . . . . . . . . 416
+IP = PSPACE . . . . . . . . . . . . . . . . . . . . . . . . . . . 418
+10.5 Parallel Computation . . . . . . . . . . . . . . . . . . . . . . . . 427
+Uniform Boolean circuits . . . . . . . . . . . . . . . . . . . . . 428
+The class NC . . . . . . . . . . . . . . . . . . . . . . . . . . . 430
+P-completeness . . . . . . . . . . . . . . . . . . . . . . . . . . 432
+10.6 Cryptography . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433
+Secret keys . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433
+Public-key cryptosystems . . . . . . . . . . . . . . . . . . . . . 435
+One-way functions . . . . . . . . . . . . . . . . . . . . . . . . . 435
+T rapdoor functions . . . . . . . . . . . . . . . . . . . . . . . . 437
+Exercises, Problems, and Solutions . . . . . . . . . . . . . . . . . . . 439
+Selected Bibliography 443
+Index 448
+Copyright 2013 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from
+the eBook and/or eChapter(s). Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to
+remove additional content at any time if subsequent rights restrictions require it.
+------------------------------
